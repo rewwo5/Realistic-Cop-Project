@@ -1,3 +1,4 @@
+#GTA 5 - Realistic Cop Project 1.1
 Didnt it annoy you that you got a wanted level without any witnesses?
 
 This file fixes that! If you kill an NPC in a quiet place with no other NPCs around, you wont get a wanted level
